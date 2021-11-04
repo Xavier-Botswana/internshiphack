@@ -67,9 +67,17 @@ The stack used to build this project:
    Watch Bot interaction Demo Video.
   _Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
-<p align="center">
-  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
-</p>
+<center>
+  <table>
+    <tr>
+      <td><a href="images/1.png"><img width="120" alt="chdemko" src="images/1.png"></a></td>
+      <td><a href="images/2.png"><img width="120" alt="chendaniely" src="images/2.png"></a></td>
+      <td><a href="images/3.png"><img width="120" alt="lauragift21" src="images/3.png"></a></td>
+      <td><a href="images/4.png"><img width="120" alt="maracuja-juice" src="images/4.png"></a></td>
+    </tr>
+ 
+  </table>
+</center>
 
 
 
