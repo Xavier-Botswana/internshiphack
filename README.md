@@ -94,11 +94,6 @@ The stack used to build this project:
 <p> 
   Demo of the service through the management web portal
 
-<p align="center">
-  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
-</p>
-
-
  _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
  
@@ -128,6 +123,16 @@ The stack used to build this project:
 
 
  _analytics interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+ 
+  <center>
+  <table>
+    <tr>
+      <td><a href="images/1.png"><img width="400" height="300" alt="chdemko" src="images/d1.png"></a></td>
+      <td><a href="images/2.png"><img width="400" height="300"  alt="chendaniely" src="images/d2.png"></a></td>
+    </tr>
+ 
+  </table>
+</center>
 
  
 </p>
