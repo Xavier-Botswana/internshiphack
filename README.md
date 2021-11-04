@@ -110,7 +110,7 @@ The stack used to build this project:
 </p>
 
 
- _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+ _analytics interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
  
 </p>
@@ -122,14 +122,14 @@ The stack used to build this project:
 <!-- analytics-->
 <h2 id="doc"> 📋: Developer Documentation </h2>
 <p> 
-  Anslytics Dashboards
+  Developer Documentation
 
 <p align="center">
   <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
 </p>
 
 
- _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+ _Developer Documentation. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
  
 </p>
@@ -141,7 +141,7 @@ The stack used to build this project:
 <!-- analytics-->
 <h2 id="team"> 📋: Team</h2>
 <p> 
-  Anslytics Dashboards
+  Team
 
 <p align="center">
   <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
