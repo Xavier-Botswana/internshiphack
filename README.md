@@ -63,7 +63,7 @@ The stack used to build this project:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- DATASET -->
+<!-- bot -->
 <h2 id="bot"> 📋: Virtual Assistant</h2>
 <p> 
   Demo of the service through a chatbot integration
@@ -74,6 +74,44 @@ The stack used to build this project:
 
 
  _Bot interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
+ 
+</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- portal -->
+<h2 id="portal"> 📋: Portal Demo</h2>
+<p> 
+  Demo of the service through the management web portal
+
+<p align="center">
+  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
+</p>
+
+
+ _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
+ 
+</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- bot -->
+<h2 id="analyticsl"> 📋: Analytics Demo</h2>
+<p> 
+  Anslytics Dashboards
+
+<p align="center">
+  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
+</p>
+
+
+ _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
  
 </p>
