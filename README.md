@@ -35,10 +35,7 @@
   A service that accepts National Service and Internship  applicant's CV and ID documents then uses Computer Vision with NLP cognitive models to extract and carry out the application process on their behalf.The backend service implements Robotic Process Automation to manage application stage processes,notify applicants and programme Information.These enable the service to process information in near real-time thus making it easier to provide high Quality analytics information for program managers,researchers and program strategists.The idea is to provide a seamless,fast paced,secure and highly scalable service that inter-operates well with other government services.
 </p>
 
-<p align="center">
-  <img src="images/WISDM Activities.png" alt="Table1: 18 Activities" width="70%" height="70%">        
-  <!--figcaption>Caption goes here</figcaption-->
-</p>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
