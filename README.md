@@ -141,8 +141,12 @@ The stack used to build this project:
 
 <!-- analytics-->
 <h2 id="doc"> 📋: Developer Documentation </h2>
+
+_Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_
+
 <p> 
   Developer Documentation
+  
 <p align="center"> 
   <img src="images/dp1.png" alt="smbots" width="70%" height="70%">
 </p>
@@ -155,8 +159,7 @@ The stack used to build this project:
 </p>
 
 
- _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_
-
+ 
  
  <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a>
 
