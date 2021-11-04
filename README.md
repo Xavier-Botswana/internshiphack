@@ -57,7 +57,7 @@ The stack used to build this project:
 * NodeJs(Creating application core services-tracking,management,tracking)
 * Reactjs(Demo portal)
 * Nodejs,Elastic(Analytics endpoints)
-* Postman(creating Testing & Developer Docummentation)
+* Postman(creating Testing & creating Developer Docummentation)
 
 
 
