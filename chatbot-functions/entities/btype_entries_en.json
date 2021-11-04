@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Member and Family",
+    "synonyms": [
+      "Member and Family",
+      "1"
+    ]
+  },
+  {
+    "value": "Member Only",
+    "synonyms": [
+      "Member Only",
+      "2"
+    ]
+  },
+  {
+    "value": "Family and Parents",
+    "synonyms": [
+      "Family and Parents",
+      "3"
+    ]
+  }
+]

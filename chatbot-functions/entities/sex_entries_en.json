@@ -1,0 +1,16 @@
+[
+  {
+    "value": "male",
+    "synonyms": [
+      "1",
+      "male"
+    ]
+  },
+  {
+    "value": "female",
+    "synonyms": [
+      "2",
+      "female"
+    ]
+  }
+]

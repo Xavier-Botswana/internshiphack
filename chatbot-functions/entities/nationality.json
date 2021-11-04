@@ -1,0 +1,9 @@
+{
+  "id": "5a2ab931-8dcd-4e56-8e0f-f087dfc5cc32",
+  "name": "nationality",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

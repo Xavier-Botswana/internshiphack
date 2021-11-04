@@ -1,0 +1,9 @@
+{
+  "id": "d32593d5-999c-475b-b776-95c1e0220d7e",
+  "name": "savings",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

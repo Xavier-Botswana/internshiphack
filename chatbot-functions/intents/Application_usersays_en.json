@@ -1,0 +1,32 @@
+[
+  {
+    "id": "54d2cc7c-92f4-4c80-b4b5-88870e909802",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7429bfa-4bad-4378-9c35-e07452763ee6",
+    "data": [
+      {
+        "text": "savings",
+        "userDefined": false
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

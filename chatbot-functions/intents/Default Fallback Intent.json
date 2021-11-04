@@ -1,0 +1,35 @@
+{
+  "id": "8bcee046-f424-47c0-8ef9-ca45436805d4",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello                                                                                                                                             1.Burial Application                                                                                                                                        2.Savings Application                                                                                                                            \n3.Payments                                                                                                                                             \n4. Premiums                                                                                                                                                       \n5.  Claims                                                                                                                                      \n6.Status"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

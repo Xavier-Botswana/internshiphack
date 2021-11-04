@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Tombstone",
+    "synonyms": [
+      "Tombstone",
+      "1"
+    ]
+  },
+  {
+    "value": "Montlhy Amount",
+    "synonyms": [
+      "Montlhy Amount",
+      "2"
+    ]
+  },
+  {
+    "value": "Wedding",
+    "synonyms": [
+      "Wedding",
+      "3"
+    ]
+  },
+  {
+    "value": "Target Date",
+    "synonyms": [
+      "Target Date",
+      "4"
+    ]
+  }
+]
