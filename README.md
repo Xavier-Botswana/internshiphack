@@ -118,7 +118,6 @@ The stack used to build this project:
   Analytics Dashboards
 
 <p align="center">
-  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
 </p>
 
 
