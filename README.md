@@ -23,7 +23,7 @@
     <li><a href="#analytics"> ➤ Demo 3 (Analytics)</a></li>
     <li><a href="#doc"> ➤ API/Developer Docummentation</a></li>
     <li><a href="#team"> ➤ Team</a></li>
-     <li><a href="#https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a></li>
+     <li><a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a></li>
   </ol>
 </details>
 
