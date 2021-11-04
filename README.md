@@ -91,8 +91,7 @@ The stack used to build this project:
 </p>
 
 
- _portal interaction Video. Please refer to the [Link]
- (https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+ _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
  
 </p>
@@ -132,22 +131,22 @@ The stack used to build this project:
 
  _Developer Documentation. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_
  
- ### Web API
+ ### Some of the API ENDPOINTS
 
 | Web API                      | URL                                        | Description |
 | ---------------------------- | ------------------------------------------ | ----------- |
-| User Register                | /api/v1/user/register                      | -           |
-| User Login                   | /api/v1/user/login                         | -           |
-| User Logout                  | /api/v1/user/:userID/logout                | -           |
-| User Auth                    | /api/v1/user/authentication                | -           |
+| Extract Data from File       | /api/v1/user/register                      | -           |
+| Update User Information      | /api/v1/user/login                         | -           |
+| handle program               | /api/v1/user/:userID/logout                | -           |
+| Get placements               | /api/v1/user/authentication                | -           |
 | User Info                    | /api/v1/user/:userID                       | -           |
-| User Online PC List          | /api/v1/user/computer/online               | -           |
-| Public PC Access             | /api/v1/computer/public/access             | -           |
+| User Online    List          | /api/v1/user/computer/online               | -           |
+| Add opportunity list         | /api/v1/computer/public/access             | -           |
 | User PC List                 | /api/v1/user/computer                      | -           |
-| Update User Account          | /api/v1/user/update                        | -           |
-| Update User Password         | /api/v1/user/password/edit                 | -           |
-| Update User PC Public status | /api/v1/user/computer/public/status/update | -           |
-| Update User PC Public Key    | /api/v1/user/computer/public/key/update    | -           |
+| Send notification            | /api/v1/user/update                        | -           |
+| Transfer Applicant           | /api/v1/user/password/edit                 | -           |
+| Change opportunity  status.  | /api/v1/user/computer/public/status/update | -           |
+| Get application metrics.     | /api/v1/user/computer/public/key/update    | -           |
 
  
 </p>
