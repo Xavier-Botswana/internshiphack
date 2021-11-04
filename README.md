@@ -19,11 +19,10 @@
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#stack"> ➤ Stack</a></li>
     <li><a href="#bot"> ➤ Demo 1(Virtual Assistants)</a></li>
-    <li><a href="#dataset"> ➤ Demo 2(Portal)</a></li>
-    <li><a href="#roadmap"> ➤ Demo 3 (Analytics)</a></li>
-    <li><a href="#results-and-discussion"> ➤ API/Developer Docummentation</a></li>
-    <li><a href="#references"> ➤ Team</a></li>
-    <li><a href="#contributors"> ➤ References</a></li>
+    <li><a href="#portal"> ➤ Demo 2(Portal)</a></li>
+    <li><a href="#analytics"> ➤ Demo 3 (Analytics)</a></li>
+    <li><a href="#doc"> ➤ API/Developer Docummentation</a></li>
+    <li><a href="#team"> ➤ Team</a></li>
   </ol>
 </details>
 
@@ -101,8 +100,46 @@ The stack used to build this project:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<!-- bot -->
-<h2 id="analyticsl"> 📋: Analytics Demo</h2>
+<!-- analytics-->
+<h2 id="analytics"> 📋: Analytics Demo</h2>
+<p> 
+  Anslytics Dashboards
+
+<p align="center">
+  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
+</p>
+
+
+ _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
+ 
+</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- analytics-->
+<h2 id="doc"> 📋: Developer Documentation </h2>
+<p> 
+  Anslytics Dashboards
+
+<p align="center">
+  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
+</p>
+
+
+ _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
+ 
+</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- analytics-->
+<h2 id="team"> 📋: Team</h2>
 <p> 
   Anslytics Dashboards
 
