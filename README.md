@@ -143,12 +143,14 @@ The stack used to build this project:
 <p> 
   Team
 
-<p align="center">
-  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
-</p>
-
-
- _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+<table>
+  <tr>
+   
+<td align="center"><a href="https://github.com/Kesego23"><img src="https://avatars3.githubusercontent.com/u/38880602?v=4" width="100px;" alt="Kesego23"/><br /><sub><b>Kesego23</b></sub></a><br /><a href="#eventOrganizing-Kesego23" title="Event Organizing">📋</a> <a href="#example-Kesego23" title="Documentation">📖</a> <a href="#example-Kesego23" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="Lolo"/><br /><sub><b>Lolo</b></sub></a><br /><a href="#eventOrganizing-lolo" title="Project Setup">📋</a> <a href="#example-lolo" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="Dudu"/><br /><sub><b>Lolo</b></sub></a><br /><a href="#eventOrganizing-thabang" title="Project Setup">📋</a> <a href="#example-Dudu" title="Code">💻</a></td>
+  </tr>
+</table>
 
  
 </p>
