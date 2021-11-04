@@ -91,7 +91,8 @@ The stack used to build this project:
 </p>
 
 
- _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+ _portal interaction Video. Please refer to the [Link]
+ (https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
  
 </p>
