@@ -187,7 +187,6 @@ preferably develop branch
 11. Check your changes by clicking here 
 
  
-</p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
