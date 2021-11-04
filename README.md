@@ -102,6 +102,15 @@ The stack used to build this project:
  _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
  
+ <center>
+  <table>
+    <tr>
+      <td><a href="images/1.png"><img width="400" height="300" alt="chdemko" src="images/p1.png"></a></td>
+      <td><a href="images/2.png"><img width="400" height="300"  alt="chendaniely" src="images/p2.png"></a></td>
+    </tr>
+ 
+  </table>
+</center>
 </p>
 
 
