@@ -163,7 +163,7 @@ The stack used to build this project:
 
 <!-- tutorial-->
 <h2 id="tut"> 📋: How to get Started</h2>
-<p>
+
 ## How To Get Started
 1. Fork this repository
 `https://github.com/BAC-GitHub-Club/BAC-APP.git`
@@ -187,7 +187,7 @@ preferably develop branch
 10. Star this repository if you had fun!
 11. Check your changes by clicking here 
 
- </p>
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
