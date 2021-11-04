@@ -63,14 +63,15 @@ The stack used to build this project:
 <!-- bot -->
 <h2 id="bot"> 📋: Virtual Assistant</h2>
 <p> 
-  Demo of the service through a chatbot integration
+  Demo of the service through a chatbot integration.
+   _Watch Bot interaction Demo Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
 <p align="center">
   <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
 </p>
 
 
- _Bot interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
 
  
 </p>
