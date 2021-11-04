@@ -61,6 +61,11 @@ The stack used to build this project:
 
 <!-- bot -->
 <h2 id="bot"> 📋: Virtual Assistant</h2>
+ _bot interaction Video1. Please refer to the [Link]( https://youtu.be/j1XIXicDOog)_ 
+  _bot interaction Video2. Please refer to the [Link](https://youtu.be/fiZEYkPlNKI)_ 
+   _bot interaction Video3. Please refer to the [Link]( https://youtu.be/N0qmArZpB3Q)_ 
+    _bot interaction Video4. Please refer to the [Link]( https://youtu.be/X5kja023VO0)_ 
+     _bot interaction Video5. Please refer to the [Link]( https://youtu.be/Mv86g81IZHw)_ 
 <p> 
   Demo of the service through a chatbot integration.
    Watch Bot interaction Demo Video.
