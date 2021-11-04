@@ -163,13 +163,14 @@ The stack used to build this project:
 
 <!-- tutorial-->
 <h2 id="tut"> 📋: How to get Started</h2>
+<p>
 ## How To Get Started
 1. Fork this repository
-`https://github.com/Xavier-Botswana/BAC-APP.git`
+`https://github.com/BAC-GitHub-Club/BAC-APP.git`
 2. Clone your fork down to your local machine
-`git clone hhttps://github.com/YOUR-NAME/internshiphack.git`
+`git clone hhttps://github.com/YOUR-NAME/BAC-APP.git`
 get into the directory
-`cd internshiphack`
+`cd OOAD`
 3. Create a branch
 `git checkout -b branch-name`
 preferrably `feature-you-are-working-on`
@@ -186,7 +187,7 @@ preferably develop branch
 10. Star this repository if you had fun!
 11. Check your changes by clicking here 
 
- 
+ </p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
