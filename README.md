@@ -64,7 +64,7 @@ The stack used to build this project:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- DATASET -->
-<h2 id="dataset"> 📋: Dataset</h2>
+<h2 id="dataset"> 📋: Virtual Assistant</h2>
 <p> 
   Demo of the service through a chatbot integration
 
