@@ -6,9 +6,7 @@
 
 </br>
 
-<p align="center"> 
-  <img src="images/skrank.png" alt="smbots" width="70%" height="70%">
-</p>
+
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Structure</h2>
