@@ -2,7 +2,7 @@
   <img src="images/logo.png" alt="X Logo" width="80px" height="80px">
 </p>
 <h1 align="center">National Service and Internship Hack Submission</h1>
-<h3 align="center"> A service that accepts National Service and Internship  applicant's CV and ID documents then uses Computer Vision with NLP cognitive models to extract and carry out the application process on their behalf.The backend service implements Robotic Process Automation to manage applicantion stage processes,notify applicants and programme Information.These enable the service to process information in near real-time thus making it easier to provide high Quality analytics information for program managers,researchers and program strategists</h3>  
+<h3 align="center"> A service that accepts National Service and Internship  applicant's CV and ID documents then uses Computer Vision with NLP cognitive models to extract and carry out the application process on their behalf.The backend service implements Robotic Process Automation to manage application stage processes,notify applicants and programme Information.These enable the service to process information in near real-time thus making it easier to provide high Quality analytics information for program managers,researchers and program strategists</h3>  
 
 </br>
 
@@ -33,7 +33,7 @@
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
 <p align="justify"> 
-  A service that accepts National Service and Internship  applicant's CV and ID documents then uses Computer Vision with NLP cognitive models to extract and carry out the application process on their behalf.The backend service implements Robotic Process Automation to manage applicantion stage processes,notify applicants and programme Information.These enable the service to process information in near real-time thus making it easier to provide high Quality analytics information for program managers,researchers and program strategists.The idea is to provide a seamless,fast paced,secure and highly scalable service that inter-operates well with other government services.
+  A service that accepts National Service and Internship  applicant's CV and ID documents then uses Computer Vision with NLP cognitive models to extract and carry out the application process on their behalf.The backend service implements Robotic Process Automation to manage application stage processes,notify applicants and programme Information.These enable the service to process information in near real-time thus making it easier to provide high Quality analytics information for program managers,researchers and program strategists.The idea is to provide a seamless,fast paced,secure and highly scalable service that inter-operates well with other government services.
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ The stack used to build this project:
 * NodeJs(Creating application core services-tracking,management,tracking)
 * Reactjs(Demo portal)
 * Nodejs,Elastic(Analytics endpoints)
-* Postman(creating Testing & creating Developer Docummentation)
+* Postman(Testing & creating Developer Docummentation)
 
 
 
@@ -63,14 +63,16 @@ The stack used to build this project:
 <!-- bot -->
 <h2 id="bot"> 📋: Virtual Assistant</h2>
 <p> 
-  Demo of the service through a chatbot integration
+  Demo of the service through a chatbot integration.
+   Watch Bot interaction Demo Video.
+  _Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
 <p align="center">
   <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
 </p>
 
 
- _Bot interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
 
  
 </p>
@@ -127,7 +129,24 @@ The stack used to build this project:
 </p>
 
 
- _Developer Documentation. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+ _Developer Documentation. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_
+ 
+ ### Some of the API ENDPOINTS
+
+| Web API                      | URL                                        | Description |
+| ---------------------------- | ------------------------------------------ | ----------- |
+| Extract Data from File       | /api/v1/user/register                      | -           |
+| Update User Information      | /api/v1/user/login                         | -           |
+| handle program               | /api/v1/user/:userID/logout                | -           |
+| Get placements               | /api/v1/user/authentication                | -           |
+| User Info                    | /api/v1/user/:userID                       | -           |
+| User Online    List          | /api/v1/user/computer/online               | -           |
+| Add opportunity list         | /api/v1/computer/public/access             | -           |
+| User PC List                 | /api/v1/user/computer                      | -           |
+| Send notification            | /api/v1/user/update                        | -           |
+| Transfer Applicant           | /api/v1/user/password/edit                 | -           |
+| Change opportunity  status.  | /api/v1/user/computer/public/status/update | -           |
+| Get application metrics.     | /api/v1/user/computer/public/key/update    | -           |
 
  
 </p>
@@ -141,10 +160,10 @@ The stack used to build this project:
 <p> 
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="Lolo"/><br /><sub><b>Lolo</b></sub></a><br /><a href="#eventOrganizing-lolo" title="Project Setup">📋</a> <a href="#example-lolo" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="Lolo"/><br /><sub><b>Leloba</b></sub></a><br /><a href="#eventOrganizing-lolo" title="Project Setup">📋</a> <a href="#example-lolo" title="Code">💻</a></td>
 <td align="center"><a href="https://github.com/kesbeast23"><img src="https://avatars3.githubusercontent.com/u/38880602?v=4" width="100px;" alt="Kesego23"/><br /><sub><b>Kesego</b></sub></a><br /><a href="#eventOrganizing-Kesego23" title="Event Organizing">📋</a> <a href="#example-Kesbeast23" title="Documentation">📖</a> <a href="#example-kesbeast23" title="Code">💻</a></td>
 <td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="Thabang"/><br /><sub><b>Thabang</b></sub></a><br /><a href="#eventOrganizing-lolo" title="Project Setup">📋</a> <a href="#example-lolo" title="Code">💻</a></td>
-<td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="Dudu"/><br /><sub><b>Dudu</b></sub></a><br /><a href="#eventOrganizing-thabang" title="Project Setup">📋</a> <a href="#example-Dudu" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="Dudu"/><br /><sub><b>Duduetsang</b></sub></a><br /><a href="#eventOrganizing-thabang" title="Project Setup">📋</a> <a href="#example-Dudu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="withus"/><br /><sub><b>Withus</b></sub></a><br /><a href="#eventOrganizing-withus" title="Project Setup">📋</a> <a href="#example-withus" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/identicons/jasonlong.png"><img src="https://github.com/identicons/jasonlong.png" width="100px;" alt="Letso"/><br /><sub><b>Letso</b></sub></a><br /><a href="#eventOrganizing-letso" title="Project Setup">📋</a> <a href="#example-Letso" title="Code">💻</a></td>
   </tr>
@@ -164,7 +183,7 @@ The stack used to build this project:
 1. Fork this repository
 `https://github.com/Xavier-Botswana/internshiphack.git`
 2. Clone your fork down to your local machine
-`git clone hhttps://github.com/YOUR-NAME/internshiphack.git`
+`git clone https://github.com/YOUR-NAME/internshiphack.git`
 get into the directory
 `cd internshiphack`
 3. Create a branch
