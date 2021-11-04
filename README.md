@@ -64,7 +64,11 @@ The stack used to build this project:
 <p> 
   Demo of the service through a chatbot integration.
    Watch Bot interaction Demo Video.
-  _Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
+  <a href="https://github.com/Xavier-Botswana/internshiphack/blob/main/images/Applications%20(1).mp4"> ➤ Link 1</a>
+  <a href="https://github.com/Xavier-Botswana/internshiphack/blob/main/images/Contract.mp4"> ➤ Link 2</a>
+  <a href="https://github.com/Xavier-Botswana/internshiphack/blob/main/images/Placement%20(1).mp4"> ➤ Link 3</a>
+  <a href="https://github.com/Xavier-Botswana/internshiphack/blob/main/images/Request%20(1).mp4"> ➤ Link 3</a>
 
 <center>
   <table>
