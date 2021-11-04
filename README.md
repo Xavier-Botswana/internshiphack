@@ -23,7 +23,7 @@
     <li><a href="#analytics"> ➤ Demo 3 (Analytics)</a></li>
     <li><a href="#doc"> ➤ API/Developer Docummentation</a></li>
     <li><a href="#team"> ➤ Team</a></li>
-     <li><a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a></li>
+    
   </ol>
 </details>
 
@@ -153,6 +153,7 @@ The stack used to build this project:
 
  _Developer Documentation. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_
  
+ <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a>
  ### Some of the API ENDPOINTS
 
 | Web API                      | URL                                        | Description |
@@ -200,7 +201,7 @@ The stack used to build this project:
 
 
 <!-- tutorial-->
-<h2 id="tut"> :computer: How to get Started</h2>
+<h2 id="tut"> :computer: How to get Started </h2>
 
 1. Fork this repository
 `https://github.com/Xavier-Botswana/internshiphack.git`
