@@ -17,8 +17,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
-    <li><a href="#prerequisites"> ➤ Stack</a></li>
-    <li><a href="#folder-structure"> ➤ Demo 1(Virtual Assistants)</a></li>
+    <li><a href="#stack"> ➤ Stack</a></li>
+    <li><a href="#bot"> ➤ Demo 1(Virtual Assistants)</a></li>
     <li><a href="#dataset"> ➤ Demo 2(Portal)</a></li>
     <li><a href="#roadmap"> ➤ Demo 3 (Analytics)</a></li>
     <li><a href="#results-and-discussion"> ➤ API/Developer Docummentation</a></li>
@@ -47,7 +47,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- PREREQUISITES -->
-<h2 id="prerequisites"> :computer: Stack</h2>
+<h2 id="stack"> :computer: Stack</h2>
 
 
 <!--This project is written in Python and Javascript <br>-->
@@ -64,7 +64,7 @@ The stack used to build this project:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- DATASET -->
-<h2 id="dataset"> 📋: Virtual Assistant</h2>
+<h2 id="bot"> 📋: Virtual Assistant</h2>
 <p> 
   Demo of the service through a chatbot integration
 
