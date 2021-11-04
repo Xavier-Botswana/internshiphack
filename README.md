@@ -144,8 +144,8 @@ The stack used to build this project:
 <p> 
   Developer Documentation
 
-<p align="center">
-  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
+<p align="center"> 
+  <img src="images/skrank.png" alt="smbots" width="70%" height="70%">
 </p>
 
 
