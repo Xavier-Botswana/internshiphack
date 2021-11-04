@@ -1,0 +1,30 @@
+{
+  "profile": {
+    "fullNames": "Atlarelang Roger Lekobane",
+    "idNumber": "532815613",
+    "gender": "Male",
+    "dob": "17/08/1996",
+    "maritalStatus": "Single",
+    "address": "Plot 123 Gaborone",
+    "telephoneNUmber": "3901262",
+    "mobileNumber": "71687109"
+  },
+  "educationalInformation": {
+    "level": "Degree",
+    "programName": "BA Hons Marketing",
+    "major": "Marketing",
+    "institution": "University of Botswana",
+    "secondaryLevel": "BGCSE",
+    "subjects": ["Maths", "Science", "Biology"],
+    "school": "Gaborone Secondary School",
+    "year": "2018"
+  },
+  "confirmationSubmission": "Thank you for yor submission. Our team will review your application and update you via SMS.",
+  "applicationStatus": "Your application is in it's final evaluation stage. You will recive an SMS alert in two days showing your status as well as the next steps.",
+  "requestContractConfirmation": "Do you agree to the terms and conditions of the above agreement?",
+  "internshipConfirmation": "Thank you for accepting the agreement - you will now be considered for government internship programs.",
+  "placement": {
+    "placementResultSuccess": "Congratulations your application has been accepted as you meet all the requirements for the National Internship program. Below is the contract between you and the ministry.",
+    "placementResultPending": "You application for internship is still pending. You are currently number 10028 in line."
+  }
+}
