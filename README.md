@@ -7,7 +7,7 @@
 </br>
 
 <p align="center"> 
-  <img src="images/Signal.gif" alt="Sample signal" width="70%" height="70%">
+  <img src="images/skrank.png" alt="smbots" width="70%" height="70%">
 </p>
 
 <!-- TABLE OF CONTENTS -->
