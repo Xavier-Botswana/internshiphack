@@ -28,3 +28,41 @@
 </details>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- ABOUT THE PROJECT -->
+<h2 id="about-the-project"> :pencil: About The Project</h2>
+
+<p align="justify"> 
+  This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch. The raw data will be preprocessed using two
+  different approaches such as topological data analysis and statistical features extraction from segmented time series. The goal is to compare and evaluate the performance of
+  different classifiers (Decision Tree, k Nearest Neighbors, Random Forest, SVM and CNN) which are trained on the two sets of preprocessed data.
+</p>
+
+<p align="center">
+  <img src="images/WISDM Activities.png" alt="Table1: 18 Activities" width="70%" height="70%">        
+  <!--figcaption>Caption goes here</figcaption-->
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- PREREQUISITES -->
+<h2 id="prerequisites"> :computer: Prerequisites</h2>
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
+
+<!--This project is written in Python programming language. <br>-->
+The following open source packages are used in this project:
+* Numpy
+* Pandas
+* Matplotlib
+* Scikit-Learn
+* Scikit-tda
+* Giotto-tda
+* TensorFlow
+* Keras
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
