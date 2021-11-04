@@ -143,38 +143,23 @@ The stack used to build this project:
 <h2 id="doc"> 📋: Developer Documentation </h2>
 <p> 
   Developer Documentation
+<p align="center"> 
+  <img src="images/dp1.png" alt="smbots" width="70%" height="70%">
+</p>
+<p align="center"> 
+  <img src="images/dp2.png" alt="smbots" width="70%" height="70%">
+</p>
 
- <center>
-  <table>
-    <tr>
-      <td><a href="images/1.png"><img width="400" height="300" alt="chdemko" src="images/dp1.png"></a></td>
-      <td><a href="images/2.png"><img width="400" height="300"  alt="chendaniely" src="images/dp2.png"></a></td>
-      <td><a href="images/2.png"><img width="400" height="300"  alt="chendaniely" src="images/dp3.png"></a></td>
-    </tr>
- 
-  </table>
-</center>
+<p align="center"> 
+  <img src="images/dp3.png" alt="smbots" width="70%" height="70%">
+</p>
 
 
- _Developer Documentation. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_
+ _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_
+
  
  <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a>
- ### Some of the API ENDPOINTS
 
-| Web API                      | URL                                        | Description |
-| ---------------------------- | ------------------------------------------ | ----------- |
-| Extract Data from File       | /api/v1/user/register                      | -           |
-| Update User Information      | /api/v1/user/login                         | -           |
-| handle program               | /api/v1/user/:userID/logout                | -           |
-| Get placements               | /api/v1/user/authentication                | -           |
-| User Info                    | /api/v1/user/:userID                       | -           |
-| User Online    List          | /api/v1/user/computer/online               | -           |
-| Add opportunity list         | /api/v1/computer/public/access             | -           |
-| User PC List                 | /api/v1/user/computer                      | -           |
-| Send notification            | /api/v1/user/update                        | -           |
-| Transfer Applicant           | /api/v1/user/password/edit                 | -           |
-| Change opportunity  status.  | /api/v1/user/computer/public/status/update | -           |
-| Get application metrics.     | /api/v1/user/computer/public/key/update    | -           |
 
  
 </p>
