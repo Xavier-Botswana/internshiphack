@@ -70,10 +70,10 @@ The stack used to build this project:
 <center>
   <table>
     <tr>
-      <td><a href="images/1.png"><img width="400" height="400" alt="chdemko" src="images/1.png"></a></td>
-      <td><a href="images/2.png"><img width="400" height="400"  alt="chendaniely" src="images/2.png"></a></td>
-      <td><a href="images/3.png"><img width="400" height="400"  alt="lauragift21" src="images/3.png"></a></td>
-      <td><a href="images/4.png"><img width="400" height="400"  alt="maracuja-juice" src="images/4.png"></a></td>
+      <td><a href="images/1.png"><img width="400" height="300" alt="chdemko" src="images/1.png"></a></td>
+      <td><a href="images/2.png"><img width="400" height="300"  alt="chendaniely" src="images/2.png"></a></td>
+      <td><a href="images/3.png"><img width="400" height="300"  alt="lauragift21" src="images/3.png"></a></td>
+      <td><a href="images/4.png"><img width="400" height="300"  alt="maracuja-juice" src="images/4.png"></a></td>
     </tr>
  
   </table>
