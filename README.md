@@ -90,10 +90,11 @@ The stack used to build this project:
 
 <!-- portal -->
 <h2 id="portal"> 📋: Portal Demo</h2>
+ _portal interaction Video. Please refer to the [Link](https://youtu.be/P6mmCRdlVXo)_ 
 <p> 
   Demo of the service through the management web portal
 
- _portal interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
 
  
  <center>
@@ -120,7 +121,7 @@ The stack used to build this project:
 </p>
 
 
- _analytics interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+ _analytics interaction Video. Please refer to the [Link](https://youtu.be/P6mmCRdlVXo)_ 
  
   <center>
   <table>
