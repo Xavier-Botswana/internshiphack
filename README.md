@@ -101,7 +101,7 @@ The stack used to build this project:
 <!-- analytics-->
 <h2 id="analytics"> 📋: Analytics Demo</h2>
 <p> 
-  Anslytics Dashboards
+  Analytics Dashboards
 
 <p align="center">
   <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
