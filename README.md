@@ -165,11 +165,11 @@ The stack used to build this project:
 <h2 id="tut"> :computer: How to get Started</h2>
 
 1. Fork this repository
-`https://github.com/BAC-GitHub-Club/BAC-APP.git`
+`https://github.com/Xavier-Botswana/internshiphack.git`
 2. Clone your fork down to your local machine
-`git clone hhttps://github.com/YOUR-NAME/BAC-APP.git`
+`git clone hhttps://github.com/YOUR-NAME/internshiphack.git`
 get into the directory
-`cd OOAD`
+`cd internshiphack`
 3. Create a branch
 `git checkout -b branch-name`
 preferrably `feature-you-are-working-on`
