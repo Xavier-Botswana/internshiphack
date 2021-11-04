@@ -158,9 +158,6 @@ The stack used to build this project:
 
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
 <!-- tutorial-->
 <h2 id="tut"> :computer: How to get Started</h2>
 
