@@ -63,4 +63,26 @@ The stack used to build this project:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<!-- DATASET -->
+<h2 id="dataset"> 📋: Dataset</h2>
+<p> 
+  Demo of the service through a chatbot integration
+
+<p align="center">
+  <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%">
+</p>
+
+
+ _Bot interaction Video. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
+
+ 
+</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+
+
 
