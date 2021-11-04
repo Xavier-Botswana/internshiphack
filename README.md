@@ -144,9 +144,16 @@ The stack used to build this project:
 <p> 
   Developer Documentation
 
-<p align="center"> 
-  <img src="images/skrank.png" alt="smbots" width="70%" height="70%">
-</p>
+ <center>
+  <table>
+    <tr>
+      <td><a href="images/1.png"><img width="400" height="300" alt="chdemko" src="images/dp1.png"></a></td>
+      <td><a href="images/2.png"><img width="400" height="300"  alt="chendaniely" src="images/dp2.png"></a></td>
+      <td><a href="images/2.png"><img width="400" height="300"  alt="chendaniely" src="images/dp3.png"></a></td>
+    </tr>
+ 
+  </table>
+</center>
 
 
  _Developer Documentation. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_
