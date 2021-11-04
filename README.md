@@ -162,9 +162,8 @@ The stack used to build this project:
 
 
 <!-- tutorial-->
-<h2 id="tut"> 📋: How to get Started</h2>
+<h2 id="tut"> computer: How to get Started</h2>
 
-## How To Get Started
 1. Fork this repository
 `https://github.com/BAC-GitHub-Club/BAC-APP.git`
 2. Clone your fork down to your local machine
